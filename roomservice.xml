@@ -4,7 +4,7 @@
 	<project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" clone-depth="1" revision="lineage-18.1" />
 	<project path="vendor/samsung/greatlte" name="Havoc-OS-8895/android_vendor_samsung_greatlte" remote="github" clone-depth="1" revision="lineage-17.1" />
 	<project path="vendor/samsung/universal8895-common" name="SlimShadys/android_vendor_samsung_universal8895-common" clone-depth="1" remote="github" revision="lineage-17.1" />
-	<project path="device/samsung/universal8895-common" name="danielkot/android_device_samsung_universal8895-common" remote="github" clone-depth="1" revision="lineageos-18.1" />
-	<project path="device/samsung/greatlte" name="danielkot/android_device_samsung_greatlte" remote="github" clone-depth="1" revision="lineage-17.1" />
+	<project path="device/samsung/universal8895-common" name="testing-8895-new/android_device_samsung_universal8895-common" remote="github" clone-depth="1" revision="lineageos-18.1" />
+	<project path="device/samsung/greatlte" name="testing-8895-new/android_device_samsung_greatlte" remote="github" clone-depth="1" revision="lineage-17.1" />
 	<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" clone-depth="1" revision="lineage-18.1" />
 </manifest>
